@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://marizadev.github.io/calculadora/">
-      <img src="https://img.shields.io/github/contributors/marizadev/portfolio" alt="contributors" />
+      <img src="https://github.com/MarizaDEV/calculadora/blob/main/imagens/marizadev.github.io_calculadora_.png" alt="contributors" />
     </a>
   </p>
     <h4>
